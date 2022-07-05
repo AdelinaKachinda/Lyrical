@@ -1,6 +1,9 @@
 # Lyrical
 
-<<<<<<< HEAD
-Adelina's Changes
-=======
+
+
+Our changes
+=============
 Amana's changes
+Adelina's Changes
+
