@@ -4,7 +4,10 @@ import requests
 import lyricsgenius
 
 # lyical.ovh
-def get_lyrics(artist, title):
+def get_lyrics():
+  artist = input("Enter artist name: ").capitalize()
+  title = input("Enter song title: ").capitalize()
+
   base_url = 'https://api.lyrics.ovh/v1/'
   url = base_url + artist + "/" + title 
 
@@ -40,17 +43,20 @@ def main():
   print("Would you rather pick out a song from various songs or get lyrics for a specific song?")
   user = input("Type various or specific: ").lower()
   if user == "specific":
-    user_response = list(input("Enter name of an artist \" + \"song: " + "(e.g Burna Boy + ye)").strip().split("+"))
-    artist_name = user_response[0].strip(" ")
-    song_name = user_response[1].strip(" ")
-    get_lyrics(artist_name, song_name)
-  if user == "":
-    pass
+    get_lyrics()     
+  elif user == "various":
+    get_extra_information()
+
+  
 
 
 
 if __name__ == "__main__":
     main()
+
+
+
+
 
 
 
