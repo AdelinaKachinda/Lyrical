@@ -1,0 +1,1330 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/33053",
+ "description": {
+  "plain": "Olamide Adedeji (born 15 March 1989), known by his stage name Olamide but popularly called Olamide Baddo, is a Nigerian hip hop recording artist from Bariga, Lagos State.He records mostly in Yoruba, his native tongue. In 2011, he released his debut studio album Rapsodi while signed to Coded Tunes. YBNL, his follow-up album, was released under his label imprint YBNL Nation. The album was supported by the singles \u201cFirst of All\u201d, \u201cVoice of the Street\u201d, \u201cStupid Love\u201d, and \u201cIlefo Illuminati\u201d. On 7 November 2013, he released his third studio album Baddest Guy Ever Liveth. The album\u2019s singles include \u201cDurosoke\u201d and \u201cYemi My Lover\u201d. On 17 July 2013, Olamide became the first Nigerian to sign an endorsement deal with C\u00eeroc.Olamide has won several music awards, including multiple Nigeria Entertainment Awards and The Headies Awards."
+ },
+ "facebook_name": null,
+ "followers_count": 43,
+ "header_image_url": "https://images.genius.com/a56c7068a6f8610896627c0ea419a224.744x446x1.jpg",
+ "id": 33053,
+ "image_url": "https://images.genius.com/3a796d56133a8418ce30fe51599cd37b.912x912x1.jpg",
+ "instagram_name": "olamide",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Olamide",
+ "translation_artist": false,
+ "twitter_name": "Olamide",
+ "url": "https://genius.com/artists/Olamide",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2931887,
+  "annotator_login": "Abisodun",
+  "api_path": "/referents/6953710",
+  "classification": "unreviewed",
+  "fragment": "Olamide",
+  "id": 6953710,
+  "is_description": true,
+  "path": "/6953710/Olamide/Olamide",
+  "range": {
+   "content": "Olamide"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6953710/Olamide/Olamide",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/33053",
+   "context": null,
+   "id": 33053,
+   "image_url": "https://images.genius.com/3a796d56133a8418ce30fe51599cd37b.912x912x1.jpg",
+   "link_title": "Olamide",
+   "title": "Olamide",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Olamide"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6953710",
+    "body": {
+     "plain": "Olamide Adedeji (born 15 March 1989), known by his stage name Olamide but popularly called Olamide Baddo, is a Nigerian hip hop recording artist from Bariga, Lagos State.He records mostly in Yoruba, his native tongue. In 2011, he released his debut studio album Rapsodi while signed to Coded Tunes. YBNL, his follow-up album, was released under his label imprint YBNL Nation. The album was supported by the singles \u201cFirst of All\u201d, \u201cVoice of the Street\u201d, \u201cStupid Love\u201d, and \u201cIlefo Illuminati\u201d. On 7 November 2013, he released his third studio album Baddest Guy Ever Liveth. The album\u2019s singles include \u201cDurosoke\u201d and \u201cYemi My Lover\u201d. On 17 July 2013, Olamide became the first Nigerian to sign an endorsement deal with C\u00eeroc.Olamide has won several music awards, including multiple Nigeria Entertainment Awards and The Headies Awards."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6953710,
+    "pinned": false,
+    "share_url": "https://genius.com/6953710",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/6953710/Olamide/Olamide",
+    "verified": false,
+    "votes_total": 26,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2931887",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/b1a4b2e78bd01795981d7e6d0c51af5d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/b1a4b2e78bd01795981d7e6d0c51af5d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/b1a4b2e78bd01795981d7e6d0c51af5d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/b1a4b2e78bd01795981d7e6d0c51af5d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/b1a4b2e78bd01795981d7e6d0c51af5d",
+       "human_readable_role_for_display": null,
+       "id": 2931887,
+       "iq": 278,
+       "login": "Abisodun",
+       "name": "Abisodun",
+       "role_for_display": null,
+       "url": "https://genius.com/Abisodun",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6729776",
+   "artist_names": "Olamide (Ft. Chinko Ekun & Viktoh)",
+   "full_title": "100 to Million by\u00a0Olamide (Ft.\u00a0Chinko\u00a0Ekun & Viktoh)",
+   "header_image_thumbnail_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.640x640x1.jpg",
+   "id": 6729776,
+   "lyrics_owner_id": 13067618,
+   "lyrics_state": "complete",
+   "path": "/Olamide-100-to-million-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Olamide-100-to-million-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 11,
+    "day": 14
+   },
+   "release_date_for_display": "November 14, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "100 to Million",
+   "title_with_featured": "100 to Million (Ft.\u00a0Chinko\u00a0Ekun & Viktoh)",
+   "url": "https://genius.com/Olamide-100-to-million-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1009069",
+     "header_image_url": "https://images.genius.com/57a5c2791be8a24e174848805890fc6b.700x700x1.jpg",
+     "id": 1009069,
+     "image_url": "https://images.genius.com/57a5c2791be8a24e174848805890fc6b.700x700x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Viktoh",
+     "url": "https://genius.com/artists/Viktoh"
+    },
+    {
+     "api_path": "/artists/1616223",
+     "header_image_url": "https://images.genius.com/655cc7ae6a9594bb6ab9173c3363d175.640x381x1.jpg",
+     "id": 1616223,
+     "image_url": "https://images.genius.com/3b5bee76626c7b559df1496b02fc1198.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chinko Ekun",
+     "url": "https://genius.com/artists/Chinko-ekun"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/33053",
+    "header_image_url": "https://images.genius.com/a56c7068a6f8610896627c0ea419a224.744x446x1.jpg",
+    "id": 33053,
+    "image_url": "https://images.genius.com/3a796d56133a8418ce30fe51599cd37b.912x912x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Olamide",
+    "url": "https://genius.com/artists/Olamide"
+   },
+   "apple_music_id": "1368677925",
+   "apple_music_player_url": "https://genius.com/songs/6729776/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6729776' class='rg_embed_link' data-song-id='6729776'>Read <a href='https://genius.com/Olamide-100-to-million-lyrics'>\u201c100 to Million\u201d by Olamide</a> on Genius</div> <script crossorigin src='//genius.com/songs/6729776/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-11-14",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_recommendations",
+     "view_sample_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145387",
+    "cover_art_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.640x640x1.jpg",
+    "full_title": "Street OT by Olamide",
+    "id": 145387,
+    "name": "Street OT",
+    "url": "https://genius.com/albums/Olamide/Street-ot",
+    "artist": {
+     "api_path": "/artists/33053",
+     "header_image_url": "https://images.genius.com/a56c7068a6f8610896627c0ea419a224.744x446x1.jpg",
+     "id": 33053,
+     "image_url": "https://images.genius.com/3a796d56133a8418ce30fe51599cd37b.912x912x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Olamide",
+     "url": "https://genius.com/artists/Olamide"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 13067618,
+    "annotator_login": "yisaaa",
+    "api_path": "/referents/22801989",
+    "classification": "needs_exegesis",
+    "fragment": "100 to Million",
+    "id": 22801989,
+    "is_description": true,
+    "path": "/22801989/Olamide-100-to-million/100-to-million",
+    "range": {
+     "content": "100 to Million"
+    },
+    "song_id": 6729776,
+    "url": "https://genius.com/22801989/Olamide-100-to-million/100-to-million",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6729776",
+     "client_timestamps": {
+      "updated_by_human_at": 1620557519,
+      "lyrics_updated_at": 1620557519
+     },
+     "context": "Olamide",
+     "id": 6729776,
+     "image_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.640x640x1.jpg",
+     "link_title": "100 to Million by\u00a0Olamide (Ft.\u00a0Chinko\u00a0Ekun & Viktoh)",
+     "title": "100 to Million",
+     "type": "Song",
+     "url": "https://genius.com/Olamide-100-to-million-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/22801989",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 22801989,
+      "pinned": false,
+      "share_url": "https://genius.com/22801989",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/22801989/Olamide-100-to-million/100-to-million",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/13067618",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/295d8cf32f74ad4a8194d4a78780265e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/295d8cf32f74ad4a8194d4a78780265e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/295d8cf32f74ad4a8194d4a78780265e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/295d8cf32f74ad4a8194d4a78780265e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/295d8cf32f74ad4a8194d4a78780265e",
+         "human_readable_role_for_display": "Contributor",
+         "id": 13067618,
+         "iq": 156488,
+         "login": "yisaaa",
+         "name": "yisaaa",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/yisaaa",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=BqSPnIkS87U"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/33053",
+     "header_image_url": "https://images.genius.com/a56c7068a6f8610896627c0ea419a224.744x446x1.jpg",
+     "id": 33053,
+     "image_url": "https://images.genius.com/3a796d56133a8418ce30fe51599cd37b.912x912x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Olamide",
+     "url": "https://genius.com/artists/Olamide"
+    },
+    {
+     "api_path": "/artists/1009069",
+     "header_image_url": "https://images.genius.com/57a5c2791be8a24e174848805890fc6b.700x700x1.jpg",
+     "id": 1009069,
+     "image_url": "https://images.genius.com/57a5c2791be8a24e174848805890fc6b.700x700x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Viktoh",
+     "url": "https://genius.com/artists/Viktoh"
+    },
+    {
+     "api_path": "/artists/1616223",
+     "header_image_url": "https://images.genius.com/655cc7ae6a9594bb6ab9173c3363d175.640x381x1.jpg",
+     "id": 1616223,
+     "image_url": "https://images.genius.com/3b5bee76626c7b559df1496b02fc1198.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chinko Ekun",
+     "url": "https://genius.com/artists/Chinko-ekun"
+    }
+   ],
+   "artist": "Olamide",
+   "lyrics": "100 to Million Lyrics[Chorus: Viktoh]\nThe day we dey on grind the day on grind the day\nWe make 1 grand the day one grand the day\nWe make 2 grand the day two grand the day\nBut we no mind the day no mind the day\nEma lo farawemi naa\nEma lo farawemi naa\nI dey turn one hundred to million\nOne hundred to million\n\n[Verse 1: Olamide]\nDuala Duanobi Karakata ni mase\nWhen I gat no money tawon eyan fi mi po se\nWon layo nbo aduro dayo titi ko de\nMokepe oluwa kilode to semi lomo Dangote\nI start to hustle hard aso white wadi brown\nPoverty humble mi binri hundred naira mo ma bow\nMo se yahoo kojasope bad luck pull m\u0435 down\nR.I.P Ahmed olopo 6 feet on the ground\nNo mo' walaitalai devil no go do m\u0435\nBut if I no make ham walaitalai heaven no go do me\nBajinatu kan fun awon nigga mi to ti shubi\nAti awon lion to ma n wo ike to ma n sebi skubi\nAwon to jejumi nigboro koluwa ko sina\nBo lomi loma sejajuna walai mo ma jiyan\nAwon to wa ni underground hope you no dey slack\nKe ma lope bi underground bread to wa ni Unilag\n[Chorus: Viktoh]\nThe day we dey on grind the day on grind the day\nWe make 1 grand the day one grand the day\nWe make 2 grand the day two grand the day\nBut we no mind the day no mind the day\nEma lo farawemi naa\nEma lo farawemi naa\nI dey turn one hundred to million\nOne hundred to million\n\n[Verse 2: Olamide]\nShoutout si awon niggas to sign loju mi\nTi o sanu ikunle abiamo ti won payi loju mi\nShoutout si awon niggas to disappear\nLojumi ti won dagbere ti won tun wa se bye lojumi\nAlamadiru Amadigba amakuro ni ghetto\nOdi oju orun odi oju ala odi arinako\nEni bani iku yin odun oun kolo lu omo e pa\nBi repping for my people Lopelup ati Sunepa\nMo ti roke mo ti lodo mo ti warayo\nMo ranti igba tama jo n moti lodo mummy Tunrayo\nFuck you my nigga if you dont love mi my\nNigga, am not lucky my nigga igboro rugged my nigga\nWomije lojumi nigga\nIf dont feel me my nigga, Awon tomo story mi shin rep funmi ni Bariga\nSweat ati tears mi fame ni mo fi buy\nWoni blood money ni mo se ki ni mofeso bayi\n[Chorus: Viktoh]\nThe day we dey on grind the day on grind the day\nWe make 1 grand the day one grand the day\nWe make 2 grand the day two grand the day\nBut we no mind the day no mind the day\nEma lo farawemi naa\nEma lo farawemi naa\nI dey turn one hundred to million\nOne hundred to million\n\n[Verse 3: Chinko Ekun]\nChinko Ekun!!!\nSebi tele tiba ra bread mi o kinri owo ra butter si\nEbi kole simi lara koda oyo boyz quarterz si\nThank God say belle no be show-glass\nGirls for sabi say na garri we dey drink over\nBoro kan oke bo kan le onibi ti a gbe iru e gba\nOri locust beans to ba poka oni ibe ti agbe iru e gba\nIya je mi ikunmu otun fe bo sosi\nWoni my life is a mess soma bu iso si\nTeacher mi kan foju dimi oni pe mi o le make eee\nOni bi industry gan badi ikebe mi o le shake ee\nOdunmi Odunmi wonu egun\nBut tabani kawo didun ifon ama O ara denu egun\nHaa I dey cry I dey sad oo\nSebi emi naa re ti mo n bo lori track pelu baddo\nOmode to ba mo owo n we oma ba agba jeun\nOni to mo clipper tunse dandan aba barber jeun\n[Outro: Viktoh]\nEma lo farawemi naa\nEma lo farawemi naa\nEma lo farawemi naa\nEma lo farawemi naa\nI dey turn one hundred to million\nOne hundred to millionEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6729773",
+   "artist_names": "Olamide",
+   "full_title": "1999 by\u00a0Olamide",
+   "header_image_thumbnail_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.640x640x1.jpg",
+   "id": 6729773,
+   "lyrics_owner_id": 13067618,
+   "lyrics_state": "complete",
+   "path": "/Olamide-1999-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Olamide-1999-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 11,
+    "day": 14
+   },
+   "release_date_for_display": "November 14, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "1999",
+   "title_with_featured": "1999",
+   "url": "https://genius.com/Olamide-1999-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/33053",
+    "header_image_url": "https://images.genius.com/a56c7068a6f8610896627c0ea419a224.744x446x1.jpg",
+    "id": 33053,
+    "image_url": "https://images.genius.com/3a796d56133a8418ce30fe51599cd37b.912x912x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Olamide",
+    "url": "https://genius.com/artists/Olamide"
+   },
+   "apple_music_id": "1368677921",
+   "apple_music_player_url": "https://genius.com/songs/6729773/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6729773' class='rg_embed_link' data-song-id='6729773'>Read <a href='https://genius.com/Olamide-1999-lyrics'>\u201c1999\u201d by Olamide</a> on Genius</div> <script crossorigin src='//genius.com/songs/6729773/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-11-14",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_recommendations",
+     "view_sample_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/145387",
+    "cover_art_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.640x640x1.jpg",
+    "full_title": "Street OT by Olamide",
+    "id": 145387,
+    "name": "Street OT",
+    "url": "https://genius.com/albums/Olamide/Street-ot",
+    "artist": {
+     "api_path": "/artists/33053",
+     "header_image_url": "https://images.genius.com/a56c7068a6f8610896627c0ea419a224.744x446x1.jpg",
+     "id": 33053,
+     "image_url": "https://images.genius.com/3a796d56133a8418ce30fe51599cd37b.912x912x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Olamide",
+     "url": "https://genius.com/artists/Olamide"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 13067618,
+    "annotator_login": "yisaaa",
+    "api_path": "/referents/22801985",
+    "classification": "needs_exegesis",
+    "fragment": "1999",
+    "id": 22801985,
+    "is_description": true,
+    "path": "/22801985/Olamide-1999/1999",
+    "range": {
+     "content": "1999"
+    },
+    "song_id": 6729773,
+    "url": "https://genius.com/22801985/Olamide-1999/1999",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6729773",
+     "client_timestamps": {
+      "updated_by_human_at": 1620503507,
+      "lyrics_updated_at": 1620503507
+     },
+     "context": "Olamide",
+     "id": 6729773,
+     "image_url": "https://images.genius.com/95c6ac8b45c41561b0065b617c5e47c5.640x640x1.jpg",
+     "link_title": "1999 by\u00a0Olamide",
+     "title": "1999",
+     "type": "Song",
+     "url": "https://genius.com/Olamide-1999-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/22801985",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 22801985,
+      "pinned": false,
+      "share_url": "https://genius.com/22801985",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/22801985/Olamide-1999/1999",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/13067618",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/295d8cf32f74ad4a8194d4a78780265e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/295d8cf32f74ad4a8194d4a78780265e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/295d8cf32f74ad4a8194d4a78780265e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/295d8cf32f74ad4a8194d4a78780265e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/295d8cf32f74ad4a8194d4a78780265e",
+         "human_readable_role_for_display": "Contributor",
+         "id": 13067618,
+         "iq": 156488,
+         "login": "yisaaa",
+         "name": "yisaaa",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/yisaaa",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=0wWKW7aqQcw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/88888",
+     "header_image_url": "https://images.genius.com/7790d8531aac331a60636e5247bebf12.1000x1000x1.jpg",
+     "id": 88888,
+     "image_url": "https://images.genius.com/7790d8531aac331a60636e5247bebf12.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pheelz",
+     "url": "https://genius.com/artists/Pheelz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/33053",
+     "header_image_url": "https://images.genius.com/a56c7068a6f8610896627c0ea419a224.744x446x1.jpg",
+     "id": 33053,
+     "image_url": "https://images.genius.com/3a796d56133a8418ce30fe51599cd37b.912x912x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Olamide",
+     "url": "https://genius.com/artists/Olamide"
+    }
+   ],
+   "artist": "Olamide",
+   "lyrics": "1999 Lyrics[Intro]\n1999\nI start 2 dey think like man\nBut if dey no kill p-man\n\n[Chorus]\nLet me take u back in time\nWetin really ginger d grind\nOmo na 1999\nT'arm robber fepa daddy mi o\nI start 2 dey think like man\nBut if dey no kill p-man\nOmo na 1999\nT'arm robber f'epa daddy mi o\n[Verse 1]\nMa lowo ma kole\nMa kole ma rale\nOjo kan lo tan si ojo kan lo bere\nI hustle my music mo sa d'alapere\nThe hustle dey pay nw e k'aje ku kale\nMy papa dey hustle my papa dey try\nMy papa na driver my papa dey grind\nMy papa dey send all him pikin go skul\nMy papa no mind ko mu garri ko sun\nMy papa dey help as in money no reach\nSum ppl\u0435 4 street dem go say he too rich\nI no knw wetin my papa wnt m\u0435 be\nUntil d day dat I almost lost d G\nDem break door\nDem carry gun\nMe need my siblings were very young\nOh my God\nDem shoot my dad\nBut he survive\nThank lord o\n\n[Chorus]\nLet me take u back in time\nWetin really ginger d grind\nOmo na 1999\nT'arm robber fepa daddy mi o\nI start 2 dey think like man\nBut if dey no kill p-man\nOmo na 1999\nT'arm robber f'epa daddy mi o\n[Verse 2]\nO di dandan mo ma l'aluyo\nB'oti ilekun waju mo ma gbeyin yo\nB'oti ilekun teyin mo ma lo sense\nMi o ni relent mo ma fo fence ah\nSe b'eyan lo bi Eleganza\nMoney must be made yes sir\nBlood in my eyes no vex ah (no vex ah)\nB'oleku wo gboro mo ma dogo\nMo ma yo kele mo ma t'irogo\nCause I dey para am goin local\nWon ni moti fa gbana moti fa choko\nI no surrender if dem no retreat\nNa money dey push me dey commit sin\nMo ti d'ehana mo di Gabazin\nMost wanted e ma ri ni magazine yeah\n\n[Chorus]\nLet me take u back in time\nWetin really ginger d grind\nOmo na 1999\nT'arm robber fepa daddy mi o\nI start 2 dey think like man\nBut if dey no kill p-man\nOmo na 1999\nT'arm robber f'epa daddy mi o\n[Outro]\nI see people dey sympathise\nI was traumatised\nNa den I realise\nIt's time to organise myselfEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5063959",
+   "artist_names": "Olamide",
+   "full_title": "2Baba Zone by\u00a0Olamide",
+   "header_image_thumbnail_url": "https://images.genius.com/9b3ce402a938f5d3bf42226b72d095b0.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9b3ce402a938f5d3bf42226b72d095b0.999x999x1.jpg",
+   "id": 5063959,
+   "lyrics_owner_id": 13067618,
+   "lyrics_state": "complete",
+   "path": "/Olamide-2baba-zone-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Olamide-2baba-zone-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 12,
+    "day": 26
+   },
+   "release_date_for_display": "December 26, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9b3ce402a938f5d3bf42226b72d095b0.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9b3ce402a938f5d3bf42226b72d095b0.999x999x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "2Baba Zone",
+   "title_with_featured": "2Baba Zone",
+   "url": "https://genius.com/Olamide-2baba-zone-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/33053",
+    "header_image_url": "https://images.genius.com/a56c7068a6f8610896627c0ea419a224.744x446x1.jpg",
+    "id": 33053,
+    "image_url": "https://images.genius.com/3a796d56133a8418ce30fe51599cd37b.912x912x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Olamide",
+    "url": "https://genius.com/artists/Olamide"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5063959/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5063959' class='rg_embed_link' data-song-id='5063959'>Read <a href='https://genius.com/Olamide-2baba-zone-lyrics'>\u201c2Baba Zone\u201d by Olamide</a> on Genius</div> <script crossorigin src='//genius.com/songs/5063959/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-12-26",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_recommendations",
+     "view_sample_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/351411",
+    "cover_art_url": "https://images.genius.com/9b3ce402a938f5d3bf42226b72d095b0.999x999x1.jpg",
+    "full_title": "The Glory by Olamide",
+    "id": 351411,
+    "name": "The Glory",
+    "url": "https://genius.com/albums/Olamide/The-glory",
+    "artist": {
+     "api_path": "/artists/33053",
+     "header_image_url": "https://images.genius.com/a56c7068a6f8610896627c0ea419a224.744x446x1.jpg",
+     "id": 33053,
+     "image_url": "https://images.genius.com/3a796d56133a8418ce30fe51599cd37b.912x912x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Olamide",
+     "url": "https://genius.com/artists/Olamide"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8160378,
+    "annotator_login": "GSDSG",
+    "api_path": "/referents/18552559",
+    "classification": "needs_exegesis",
+    "fragment": "2Baba Zone",
+    "id": 18552559,
+    "is_description": true,
+    "path": "/18552559/Olamide-2baba-zone/2baba-zone",
+    "range": {
+     "content": "2Baba Zone"
+    },
+    "song_id": 5063959,
+    "url": "https://genius.com/18552559/Olamide-2baba-zone/2baba-zone",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5063959",
+     "client_timestamps": {
+      "updated_by_human_at": 1619012792,
+      "lyrics_updated_at": 1619012792
+     },
+     "context": "Olamide",
+     "id": 5063959,
+     "image_url": "https://images.genius.com/9b3ce402a938f5d3bf42226b72d095b0.999x999x1.jpg",
+     "link_title": "2Baba Zone by\u00a0Olamide",
+     "title": "2Baba Zone",
+     "type": "Song",
+     "url": "https://genius.com/Olamide-2baba-zone-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18552559",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18552559,
+      "pinned": false,
+      "share_url": "https://genius.com/18552559",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18552559/Olamide-2baba-zone/2baba-zone",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8160378",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6fba67ca494e420a150626e029e4533f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6fba67ca494e420a150626e029e4533f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6fba67ca494e420a150626e029e4533f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6fba67ca494e420a150626e029e4533f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/21e9vmst8o6",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8160378,
+         "iq": 23571,
+         "login": "GSDSG",
+         "name": "GSDSG",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/GSDSG",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=rWp9mtN53KA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/88888",
+     "header_image_url": "https://images.genius.com/7790d8531aac331a60636e5247bebf12.1000x1000x1.jpg",
+     "id": 88888,
+     "image_url": "https://images.genius.com/7790d8531aac331a60636e5247bebf12.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pheelz",
+     "url": "https://genius.com/artists/Pheelz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/33053",
+     "header_image_url": "https://images.genius.com/a56c7068a6f8610896627c0ea419a224.744x446x1.jpg",
+     "id": 33053,
+     "image_url": "https://images.genius.com/3a796d56133a8418ce30fe51599cd37b.912x912x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Olamide",
+     "url": "https://genius.com/artists/Olamide"
+    }
+   ],
+   "artist": "Olamide",
+   "lyrics": "2Baba Zone Lyrics[Intro]\nPheelz mr producer\nBaba yetun yetun, ledi muni yedun yedun wa mi waba\nBaba yetun yetun di\u2005yefun\u2005jinala, kowe li\u2005du ku zue eh\n(Oh my.; oh\u2005my)\nBaba yetun yetun, ledi muni yedun yedun wa mi waba\n(Oh my.; oh my goodness ohh)\nBaba yetun yetun di yefun jinala, kowe li du ku zue eh\n\n[Verse 1]\nOya oh my God; they want to start again\nThey want to start to dey yarn, they want to start to complain\nThey want to yarn those kind matter wey dey scatter my brain\nThose kind matter wey dey cause me pain\nI maintain to sustain, when I no see the cake\nMonkey dey work, Baboon dey chop\nI dey hustle in vain\nHow man go carry plane dey go Costain?\nThem clothes wey them stain, dem dey wash for Spain\n[Chorus]\n(Ehh; oh my; oh my)\nBaba yetun yetun, ledi muni yedun yedun wa mi waba\n(Oh my goodness; oh oh)\nBaba yetun yetun di yefun jinala, kowe li du ku zue eh\n(Oh my.; oh oh)\nBaba yetun yetun, ledi muni yedun yedun wa mi waba\n(Oh my.; oh my goodness oh ehh)\nBaba yetun yetun di yefun jinala, kowe li du ku zue eh\n\n[Verse 2]\nWhy you make the kids cry?\nWhy' you killing one another?\nStrong face for your brother, like Custom wey dey border\nBut, nothing mega, nothing pai\nNo dey bother; cos' I know someday, we go need each other\nBut, till then, make you stay for your lane\nIf I say the water white; no dey tell me you plain\nRespect my point of view; no look me like am insane\nInsane; ehh; no look me like am insane\nCos' I dey tell you my pain\nWhen e reach, man dey cuddle, anytime e dey rain\nPoor man dey pack water inside him house with him plate\nHim plate; ehh; enough propaganda; tell them 'Da Pada!\nWhat is good for the goose, is good for the gander\nAnd the youths are not confused\nWe just dey wait make them finish before we go lose am\n[Chorus]\nBaba yetun yetun, ledi muni yedun yedun wa mi waba\n(Oh my goodness; oh oh)\nBaba yetun yetun di yefun jinala, kowe li du ku zue eh\n(Oh my.; oh oh)\nBaba yetun yetun, ledi muni yedun yedun wa mi waba\n(Oh my.; oh my goodness oh eh)\nBaba yetun yetun di yefun jinala, kowe li du ku zue eh\n(Oh my; oh oh; oh my)\nBaba yetun yetun, ledi muni yedun yedun wa mi waba\n{Oh my goodness; oh ohh}\nBaba yetun yetun di yefun jinala, kowe li du ku zue eh\n(Oh my.; oh my; oh my goodness; eh eh)\nBaba yetun yetun, ledi muni yedun yedun wa mi waba\nBaba yetun yetun di yefun jinala, kowe li du ku zueEmbed"
+  }
+ ]
+}
