@@ -19,9 +19,9 @@ def get_lyrics(artist, title):
 
 
 # genius api
-def get_extra_information():
-  genius = lyricsgenius.Genius("pN39MdQbjguuvRXwSxcZ9FuPYb5zh-DzG_QT5qTME7NWwhZHRiLzeHDUUP8dK1_7")
+genius = lyricsgenius.Genius("pN39MdQbjguuvRXwSxcZ9FuPYb5zh-DzG_QT5qTME7NWwhZHRiLzeHDUUP8dK1_7")
 
+def get_extra_information():
   artist_name = input("Enter artist name: ").capitalize()
   max_songs = int(input(f"How many songs of {artist_name} do you want? "))
 
