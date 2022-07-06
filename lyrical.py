@@ -18,7 +18,6 @@ def get_lyrics(artist, title):
     print(char)
 
 
-
 # # genius api
 # genius = lyricsgenius.Genius("pN39MdQbjguuvRXwSxcZ9FuPYb5zh-DzG_QT5qTME7NWwhZHRiLzeHDUUP8dK1_7")
 
@@ -37,6 +36,10 @@ def get_lyrics(artist, title):
 # print(song.lyrics)
 
 def main():
+  print("\n")
+  print("Would you rather pick out a song from various songs or get lyrics for a specific song?")
+  user = input("Type various or specific: ")
+  
   user_response = list(input("Enter name of an artist \" + \"song: " + "(e.g Burna Boy + ye)").strip().split("+"))
   artist_name = user_response[0].strip(" ")
   song_name = user_response[1].strip(" ")
