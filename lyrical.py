@@ -51,7 +51,7 @@ def dict_to_df_to_db(artist_dictionary):
                                      songs_dict["lyrics"]]
     df = pd.DataFrame.from_dict(data, orient='index')
     engine = db.create_engine('sqlite:///artist_info.db')
-    df.to_sql(f"Artist_Information", con=engine, if_exists='replace',
+    df.to_sql("Artist_Information", con=engine, if_exists='replace',
               index=False)
     query_result = engine.execute("SELECT * \
     FROM Artist_Information;").fetchall()
@@ -61,10 +61,14 @@ def dict_to_df_to_db(artist_dictionary):
     return data_frame
 
 
+def multiply(num1, num2):
+    return num1 * num2
+
+
 def main():
     print("\n")
     print("Would you rather get lyrics for a specific song or get information \
-    about multiple songs")
+about multiple songs")
     print("Enter 1 for a specific song")
     print("Enter 2 to get information about multiple songs by an artist")
     user_input = input("Input: ")
@@ -73,16 +77,16 @@ def main():
     elif user_input == "2":
         artist_name = input("Enter artist name: ").capitalize()
         max_songs = int(input(f"How many songs of {artist_name} do \
-        you want? "))
+you want?: "))
         artist_data = get_artist_data(artist_name, max_songs)
         df = dict_to_df_to_db(artist_data)
         print(df)
         print("\n")
         answer = input("Would you like the lyrics to any of these songs \
-        (type y/n): ").lower()
+(type y/n): ").lower()
         if answer == 'y':
             song_name = input(f"Which of {artist_name}'s songs do you want \
-            the lyrics to? ").lower()
+the lyrics to? ").lower()
             print("\n")
             for song in artist_data['songs']:
                 if song["title"].lower() == song_name:
@@ -90,7 +94,7 @@ def main():
                     print()
                     print("Thank you, Bye!!")
         else:
-            print("Bye Bye!")
+            print("Good Bye!")
 
 
 if __name__ == "__main__":
