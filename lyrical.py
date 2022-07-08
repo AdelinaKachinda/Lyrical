@@ -4,6 +4,7 @@ import requests
 import lyricsgenius
 import pandas as pd
 import sqlalchemy as db
+from pandas import option_context
 
 
 # LYRICAL.OVH API
@@ -22,8 +23,8 @@ def get_lyrics():
     lyrics = response.json()
     l_values = lyrics.values()
 
-    for char in l_values:
-        print(char)
+    for line in l_values:
+        print(line)
 
 
 # GENIUS API
@@ -44,11 +45,13 @@ def dict_to_df_to_db(artist_dictionary):
     songs_list = artist_dictionary['songs']
     data = {}
     for songs_dict in songs_list:
+        for element in songs_dict:
+            print(element)
         data[songs_dict['title']] = [songs_dict["id"], songs_dict["title"],
                                      songs_dict["artist_names"],
                                      songs_dict["album"]["name"],
-                                     songs_dict["release_date"],
-                                     songs_dict["lyrics"]]
+                                     songs_dict["song_art_image_url"],
+                                     songs_dict["release_date"]]
     df = pd.DataFrame.from_dict(data, orient='index')
     engine = db.create_engine('sqlite:///artist_info.db')
     df.to_sql("Artist_Information", con=engine, if_exists='replace',
@@ -56,13 +59,24 @@ def dict_to_df_to_db(artist_dictionary):
     query_result = engine.execute("SELECT * \
     FROM Artist_Information;").fetchall()
     data_frame = pd.DataFrame(query_result)
-    data_frame.columns = ["SONG_ID", "TITLE", "ARTISTS", "ALBUM", "RELEASED",
-                          "LYRICS"]
+    data_frame.columns = ["SONG_ID", "TITLE", "ARTISTS", "ALBUM", "ALBUM_ART",
+                          "RELEASED"]
     return data_frame
 
 
 def multiply(num1, num2):
     return num1 * num2
+
+
+def get_frequency(given_word, artist_data):
+    total_lyrics = ""
+    for songs_dict in artist_data['songs']:
+        total_lyrics += songs_dict["lyrics"]
+    counter = 0
+    for word in total_lyrics.split():
+        if word.lower() == given_word:
+            counter += 1
+    return counter
 
 
 def main():
@@ -80,7 +94,8 @@ about multiple songs")
 you want?: "))
         artist_data = get_artist_data(artist_name, max_songs)
         df = dict_to_df_to_db(artist_data)
-        print(df)
+        with option_context('display.max_colwidth', 100):
+            print(df)
         print("\n")
         answer = input("Would you like the lyrics to any of these songs \
 (type y/n): ").lower()
@@ -93,8 +108,18 @@ the lyrics to? ").lower()
                     pprint.pprint(song['lyrics'])
                     print()
                     print("Thank you, Bye!!")
+                else:
+                    print("Song Not Found!")
+        ans = input("Would you like to get the frequency of a specific word \
+in the above songs? (Enter y/n): ").lower()
+        if ans == 'y':
+            word = input("Enter the word: ")
+            frequency = get_frequency(word, artist_data)
+            print(f"\nThe word {word} appears {frequency} times in the \
+above {max_songs} songs.")
+            print("\nThanks for using our Program!")
         else:
-            print("Good Bye!")
+            print("Thank You, Good Bye!")
 
 
 if __name__ == "__main__":
